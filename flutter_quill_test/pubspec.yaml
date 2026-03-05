@@ -17,7 +17,7 @@ dependencies:
   flutter_quill:
     git:
       url: https://github.com/Ladegeraet/flutter-quill.git
-      ref: bug/web_focus_traversal
+      ref: bug/1-fix-drag-selection-does-not-request-focus-on-desktop-platforms
   flutter_test:
     sdk: flutter
 
