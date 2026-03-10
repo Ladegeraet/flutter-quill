@@ -17,7 +17,7 @@ dependencies:
   flutter_quill:
     git:
       url: https://github.com/Ladegeraet/flutter-quill.git
-      ref: bug/1-fix-drag-selection-does-not-request-focus-on-desktop-platforms
+      ref: fix/cursor-delay-on-first-focus-when-dirty
   flutter_test:
     sdk: flutter
 
