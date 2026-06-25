@@ -17,7 +17,7 @@ dependencies:
   flutter_quill:
     git:
       url: https://github.com/Ladegeraet/flutter-quill.git
-      ref: fix/cursor-delay-on-first-focus-when-dirty
+      ref: fix/cursor-delay-on-first-focus-when-dirty_updated
   flutter_test:
     sdk: flutter
 
